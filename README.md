@@ -17,7 +17,7 @@ Keempat-empat keadaan yang diuji iaitu Keadaan Normal (A), Baby Carseat Kosong +
 | Pengesanan Radar | Radar mengesan kehadiran manusia | Radar berjaya mengesan dalam semua ujian |radar berfungsi seperti yang dijangkakan |
 | Bacaan Berat | Load Cell memberi bacaan tepat | Bacaan tepat (0 kg dan 9.1-9.7 kg) |bacaan stabil dan tepat |
 | Bacaan Suhu | SHT31 memberi bacaan tepat | Bacaan tepat (29.2°C - 32.0°C) |bacaan konsisten |
-| Penghantaran Telegram | Telegram dihantar dalam 5-10 saat | Telegram dihantar dalam 5-8 saat |lebih cepat daripada jangkaan |
+| Penghantaran Telegram | Telegram dihantar dalam 20-30 saat | Telegram dihantar dalam 8-14 saat |lebih cepat daripada jangkaan |
 | Pengaktifan Buzzer | Buzzer aktif pada suhu ≥ 30°C | Buzzer aktif pada suhu ≥ 30°C |mengikut logik yang ditetapkan |
 
 ### 4.1.3 Perbandingan dengan Kajian Lepas
@@ -80,7 +80,7 @@ Berdasarkan ujian yang telah dijalankan, sistem keselamatan kanak-kanak ini tela
 | Pengesanan Radar | **Berjaya** dalam semua ujian |
 | Bacaan Berat | **Tepat dan Stabil** |
 | Bacaan Suhu | **Tepat dan Konsisten** |
-| Penghantaran Telegram | **Berjaya** dalam masa 5-8 saat |
+| Penghantaran Telegram | **Berjaya** dalam masa 8-14 saat |
 | Pengaktifan Buzzer | **Tepat** mengikut logik yang ditetapkan |
 | Amaran Palsu | **Tiada** (0%) |
 | Kebolehpercayaan Sistem | **Sangat Tinggi** |
@@ -90,7 +90,7 @@ Berdasarkan ujian yang telah dijalankan, sistem keselamatan kanak-kanak ini tela
 | Objektif | Pencapaian |
 |----------|------------|
 | Mengesan kehadiran kanak-kanak dalam kenderaan | ✅ **Tercapai** – radar berjaya mengesan kehadiran |
-| Memberi amaran awal melalui Telegram | ✅ **Tercapai** – Telegram dihantar dalam masa 5-8 saat |
+| Memberi amaran awal melalui Telegram | ✅ **Tercapai** – Telegram dihantar dalam masa 8-14 saat |
 | Mengaktifkan buzzer pada suhu berbahaya | ✅ **Tercapai** – buzzer aktif pada suhu ≥ 30°C |
 | Mengelakkan amaran palsu | ✅ **Tercapai** – tiada amaran palsu dalam semua ujian |
 
@@ -113,7 +113,7 @@ Secara keseluruhannya, sistem keselamatan kanak-kanak dalam kenderaan yang diban
 
 Penggunaan **radar LD2410C** sebagai sensor utama memberikan kelebihan berbanding PIR sensor kerana ia boleh mengesan manusia walaupun dalam keadaan statik dan melalui halangan. Modul **4G A7670C** pula memastikan notifikasi dapat dihantar tanpa bergantung kepada Wi-Fi, menjadikan sistem ini sesuai digunakan di mana-mana sahaja.
 
-Dengan kadar kejayaan 100%, tiada amaran palsu, dan masa tindak balas yang cepat (< 15 saat), sistem ini **boleh dipercayai** dan **berkesan** untuk digunakan sebagai sistem keselamatan kanak-kanak dalam kenderaan. Inovasi yang diperkenalkan dalam projek ini berpotensi untuk dikomersialkan dan memberi manfaat kepada masyarakat.
+Dengan kadar kejayaan 100%, tiada amaran palsu, dan masa tindak balas yang cepat, sistem ini **boleh dipercayai** dan **berkesan** untuk digunakan sebagai sistem keselamatan kanak-kanak dalam kenderaan. Inovasi yang diperkenalkan dalam projek ini berpotensi untuk dikomersialkan dan memberi manfaat kepada masyarakat.
 
 ---
 
