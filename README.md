@@ -14,11 +14,11 @@ Keempat-empat keadaan yang diuji iaitu Keadaan Normal (A), Baby Carseat Kosong +
 
 | Aspek | Nilai Teori | Nilai Praktikal | Analisis |
 |-------|-------------|-----------------|----------|
-| Pengesanan Radar | Radar mengesan kehadiran manusia | Radar berjaya mengesan dalam semua ujian | **Sesuai** – radar berfungsi seperti yang dijangkakan |
-| Bacaan Berat | Load Cell memberi bacaan tepat | Bacaan tepat (0 kg dan 9.1-9.7 kg) | **Sesuai** – bacaan stabil dan tepat |
-| Bacaan Suhu | SHT31 memberi bacaan tepat | Bacaan tepat (29.2°C - 32.0°C) | **Sesuai** – bacaan konsisten |
-| Penghantaran Telegram | Telegram dihantar dalam 5-10 saat | Telegram dihantar dalam 5-8 saat | **Sesuai** – lebih cepat daripada jangkaan |
-| Pengaktifan Buzzer | Buzzer aktif pada suhu ≥ 30°C | Buzzer aktif pada suhu ≥ 30°C | **Sesuai** – mengikut logik yang ditetapkan |
+| Pengesanan Radar | Radar mengesan kehadiran manusia | Radar berjaya mengesan dalam semua ujian |radar berfungsi seperti yang dijangkakan |
+| Bacaan Berat | Load Cell memberi bacaan tepat | Bacaan tepat (0 kg dan 9.1-9.7 kg) |bacaan stabil dan tepat |
+| Bacaan Suhu | SHT31 memberi bacaan tepat | Bacaan tepat (29.2°C - 32.0°C) |bacaan konsisten |
+| Penghantaran Telegram | Telegram dihantar dalam 5-10 saat | Telegram dihantar dalam 5-8 saat |lebih cepat daripada jangkaan |
+| Pengaktifan Buzzer | Buzzer aktif pada suhu ≥ 30°C | Buzzer aktif pada suhu ≥ 30°C |mengikut logik yang ditetapkan |
 
 ### 4.1.3 Perbandingan dengan Kajian Lepas
 
